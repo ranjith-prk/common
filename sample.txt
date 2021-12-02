@@ -1,0 +1,4 @@
+hi 
+this is text file i created for git
+so thanks a lot 
+for helping me to create this git
